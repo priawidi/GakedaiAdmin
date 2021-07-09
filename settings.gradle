@@ -1,0 +1,2 @@
+rootProject.name = "Gakedai Admin"
+include ':app'
